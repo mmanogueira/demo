@@ -1,3 +1,3 @@
 # Segundo teste
 
-Este é um arquivo de teste
+Este é um arquivo de teste.
