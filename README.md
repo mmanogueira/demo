@@ -3,3 +3,4 @@
 This is a demo file.
 One more line.
 a
+b
