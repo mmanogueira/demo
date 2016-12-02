@@ -2,3 +2,5 @@ Teste23
 Mais uma linha. Mais texto aqui.
 E mais uma linha também.
 Nova linha aqui.
+
+Esta linha foi incluida na branch master.
