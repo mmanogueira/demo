@@ -3,3 +3,4 @@ Mais uma linha. Mais texto aqui.
 E mais uma linha também.
 Nova linha aqui.
 Esta linha foi incluida na branch TEMP
+Esta linha foi incluida na branch temp2
