@@ -6,3 +6,4 @@ Esta linha foi incluida na branch master.
 Esta linha foi incluida na branch TEMP
 Esta linha foi incluida na branch temp2
 Esta linha foi adicionada na temp2 numa segunda edição
+Esta vai sumir
