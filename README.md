@@ -10,3 +10,4 @@ Este é um comentário para sincronizar no BitBucket.
 
 
 Fim do README
+Para sincronizar com o GitHub
