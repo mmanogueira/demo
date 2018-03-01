@@ -8,7 +8,8 @@ Esta linha foi incluida na branch temp2
 Esta linha foi adicionada na temp2 numa segunda edição
 Esta linha eu inseri agora.
 WIP
-WIP21
-WIP3
+WIP21 - novo
+WIP3 - Comentário feito em 27/02/2018
 WIP4
-Incluida em 28/02/2018
+Linha inserida em 27/02/2018
+Mais uma linha aqui.
